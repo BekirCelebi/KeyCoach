@@ -12,5 +12,5 @@ The program uses a **QWERTY laptop layout**. The code is an AI-generated mess, s
 
 ## Keyboard Layout
 
-![Keyboard Layout]([/mnt/data/Layout.png](https://github.com/BekirCelebi/KeyCoach/blob/main/Layout.png))
+![Keyboard Layout](layout.png)
 
